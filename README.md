@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Megha
-- 👀 I’m interested in Software Engineering and Machine Learning
-- 🌱 I’m currently learning API Integration
-- 💞️ I’m looking to collaborate on JAVA Full Stack Development and Machine Learning
+- 👀 I’m interested in Software Engineering, Data Engineering and Machine Learning
+- 🌱 I’m currently learning Algorithms
+- 💞️ I’m looking to collaborate on building highly efficient and high speed Data Pipelines and Machine Learning
 - 📫 How to reach me - Drop a mail at meghanandi909@gmail.com
 
 <!---
